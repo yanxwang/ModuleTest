@@ -1,0 +1,22 @@
+Backup Timestamp: Wed Dec 17 01:26:57 AM CST 2025
+Hostname: g1
+Working Directory: /home/wang/modular_test
+
+Files Backed Up: 9 / 9
+
+Test Configuration:
+- CPU Frequency: 2000 MHz (locked)
+- Test Duration: 60 seconds per run
+- Queue Size: 1024
+- Sample Interval: 1000
+- Clients Tested: 1, 2, 4, 8, 16, 32, 64
+- Runs per config: 3
+
+System Info:
+Model name:                              Intel(R) Xeon(R) 6780E
+CPU(s):                                  288
+NUMA node0 CPU(s):                       0-143
+NUMA node1 CPU(s):                       144-287
+NUMA node2 CPU(s):                       
+Thread(s) per core:                      1
+NUMA node(s):                            3

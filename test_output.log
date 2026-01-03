@@ -1,0 +1,450 @@
+Estimated CPU frequency: 2.19992 GHz
+Time 1s: 3291067 req/sec
+  System: 3286981 req/sec
+Time 2s: 3150884 req/sec
+  System: 3150786 req/sec
+Time 3s: 3100123 req/sec
+  System: 3100104 req/sec
+Time 4s: 3103216 req/sec
+  System: 3103131 req/sec
+Time 5s: 3053941 req/sec
+  System: 3053920 req/sec
+Time 6s: 3022040 req/sec
+  System: 3021997 req/sec
+Time 7s: 2972025 req/sec
+  System: 2972024 req/sec
+Time 8s: 3022535 req/sec
+  System: 3022460 req/sec
+Time 9s: 3070099 req/sec
+  System: 3070063 req/sec
+Time 10s: 3036857 req/sec
+  System: 3036853 req/sec
+Time 11s: 3028959 req/sec
+  System: 3028945 req/sec
+Time 12s: 3029831 req/sec
+  System: 3029826 req/sec
+Time 13s: 3016614 req/sec
+  System: 3016573 req/sec
+Time 14s: 3045876 req/sec
+  System: 3045876 req/sec
+Time 15s: 3115659 req/sec
+  System: 3115585 req/sec
+Time 16s: 3112573 req/sec
+  System: 3112567 req/sec
+Time 17s: 3106173 req/sec
+  System: 3106173 req/sec
+Time 18s: 3079421 req/sec
+  System: 3079416 req/sec
+Time 19s: 3013598 req/sec
+  System: 3013536 req/sec
+Time 20s: 3015936 req/sec
+  System: 3015936 req/sec
+Time 21s: 3016694 req/sec
+  System: 3016692 req/sec
+Time 22s: 3023102 req/sec
+  System: 3023097 req/sec
+Time 23s: 3042462 req/sec
+  System: 3042459 req/sec
+Time 24s: 3114751 req/sec
+  System: 3114747 req/sec
+Time 25s: 3077333 req/sec
+  System: 3077274 req/sec
+Time 26s: 3059769 req/sec
+  System: 3059661 req/sec
+Time 27s: 3070070 req/sec
+  System: 3070060 req/sec
+Time 28s: 3188659 req/sec
+  System: 3188607 req/sec
+Time 29s: 3232829 req/sec
+  System: 3232830 req/sec
+Time 30s: 3278664 req/sec
+  System: 3278648 req/sec
+Time 31s: 3218108 req/sec
+  System: 3218102 req/sec
+Time 32s: 3164903 req/sec
+  System: 3164901 req/sec
+Time 33s: 3143158 req/sec
+  System: 3143131 req/sec
+Time 34s: 3143917 req/sec
+  System: 3143910 req/sec
+Time 35s: 3129515 req/sec
+  System: 3129467 req/sec
+Time 36s: 3153914 req/sec
+  System: 3153916 req/sec
+Time 37s: 3257522 req/sec
+  System: 3257472 req/sec
+Time 38s: 3391929 req/sec
+  System: 3391927 req/sec
+Time 39s: 3425858 req/sec
+  System: 3425816 req/sec
+Time 40s: 3429756 req/sec
+  System: 3429756 req/sec
+Time 41s: 3387339 req/sec
+  System: 3387301 req/sec
+Time 42s: 3236990 req/sec
+  System: 3236982 req/sec
+Time 43s: 3205692 req/sec
+  System: 3205622 req/sec
+Time 44s: 3118334 req/sec
+  System: 3118331 req/sec
+Time 45s: 3107571 req/sec
+  System: 3107477 req/sec
+Time 46s: 3155389 req/sec
+  System: 3155388 req/sec
+Time 47s: 3155067 req/sec
+  System: 3155038 req/sec
+Time 48s: 3188605 req/sec
+  System: 3188599 req/sec
+Time 49s: 3160122 req/sec
+  System: 3160128 req/sec
+Time 50s: 3071028 req/sec
+  System: 3071020 req/sec
+Time 51s: 3012669 req/sec
+  System: 3012661 req/sec
+Time 52s: 3065147 req/sec
+  System: 3065151 req/sec
+Time 53s: 3066111 req/sec
+  System: 3066106 req/sec
+Time 54s: 3076092 req/sec
+  System: 3076089 req/sec
+Time 55s: 3126583 req/sec
+  System: 3126580 req/sec
+Time 56s: 3088128 req/sec
+  System: 3088127 req/sec
+Time 57s: 3093821 req/sec
+  System: 3093818 req/sec
+Time 58s: 3081960 req/sec
+  System: 3081817 req/sec
+Time 59s: 3140986 req/sec
+  System: 3140987 req/sec
+Time 60s: 3216805 req/sec
+  System: 3216741 req/sec
+Time 61s: 54976 req/sec
+  System: 54931 req/sec
+
+=== Final Statistics ===
+Synchronizer forwarded total = 187759755
+Processed total = 187754119
+Average Throughput = 3.12924e+06 req/sec
+
+=== Per-Client Latency ===
+[Client 0] Latency samples: 2937
+ Avg: 21855.8 ns
+ p50: 21775.3 ns
+ p90: 22871.7 ns
+ p99: 23839 ns
+[Client 1] Latency samples: 2939
+ Avg: 22088.1 ns
+ p50: 21980.8 ns
+ p90: 23285.4 ns
+ p99: 24504.5 ns
+[Client 2] Latency samples: 2935
+ Avg: 22346.7 ns
+ p50: 22336.3 ns
+ p90: 23494.5 ns
+ p99: 24816.3 ns
+[Client 3] Latency samples: 2937
+ Avg: 21624 ns
+ p50: 21648 ns
+ p90: 22744.5 ns
+ p99: 23679 ns
+[Client 4] Latency samples: 2935
+ Avg: 21729 ns
+ p50: 21643.5 ns
+ p90: 23069 ns
+ p99: 24431.8 ns
+[Client 5] Latency samples: 2939
+ Avg: 21974.9 ns
+ p50: 21955.3 ns
+ p90: 23245.4 ns
+ p99: 24297.2 ns
+[Client 6] Latency samples: 2935
+ Avg: 21600.8 ns
+ p50: 21605.3 ns
+ p90: 22806.3 ns
+ p99: 23882.7 ns
+[Client 7] Latency samples: 2935
+ Avg: 21994.4 ns
+ p50: 21987.2 ns
+ p90: 23159 ns
+ p99: 24125.4 ns
+[Client 8] Latency samples: 2936
+ Avg: 21932.6 ns
+ p50: 21879 ns
+ p90: 23001.7 ns
+ p99: 24079 ns
+[Client 9] Latency samples: 2937
+ Avg: 21987.6 ns
+ p50: 21948.1 ns
+ p90: 23205.4 ns
+ p99: 24282.7 ns
+[Client 10] Latency samples: 2934
+ Avg: 21884.9 ns
+ p50: 21925.3 ns
+ p90: 23129.9 ns
+ p99: 24296.3 ns
+[Client 11] Latency samples: 2934
+ Avg: 21465.8 ns
+ p50: 21523.5 ns
+ p90: 22440.8 ns
+ p99: 23222.7 ns
+[Client 12] Latency samples: 2935
+ Avg: 22041.7 ns
+ p50: 22107.2 ns
+ p90: 23380.8 ns
+ p99: 24327.2 ns
+[Client 13] Latency samples: 2938
+ Avg: 22009.4 ns
+ p50: 21928.1 ns
+ p90: 23238.1 ns
+ p99: 24300 ns
+[Client 14] Latency samples: 2935
+ Avg: 21847.6 ns
+ p50: 21829.9 ns
+ p90: 23061.7 ns
+ p99: 24027.2 ns
+[Client 15] Latency samples: 2936
+ Avg: 21839 ns
+ p50: 21887.1 ns
+ p90: 23182.6 ns
+ p99: 24082.7 ns
+[Client 16] Latency samples: 2936
+ Avg: 21872.6 ns
+ p50: 21910.8 ns
+ p90: 23003.6 ns
+ p99: 24053.6 ns
+[Client 17] Latency samples: 2935
+ Avg: 22150.3 ns
+ p50: 22164.4 ns
+ p90: 23279.9 ns
+ p99: 24346.3 ns
+[Client 18] Latency samples: 2933
+ Avg: 22027.2 ns
+ p50: 22024.4 ns
+ p90: 23086.3 ns
+ p99: 24086.3 ns
+[Client 19] Latency samples: 2934
+ Avg: 21960.3 ns
+ p50: 21846.2 ns
+ p90: 23053.6 ns
+ p99: 24117.2 ns
+[Client 20] Latency samples: 2937
+ Avg: 21718.1 ns
+ p50: 21751.7 ns
+ p90: 22878.1 ns
+ p99: 23690.8 ns
+[Client 21] Latency samples: 2935
+ Avg: 22024 ns
+ p50: 22038.1 ns
+ p90: 23105.4 ns
+ p99: 24140 ns
+[Client 22] Latency samples: 2934
+ Avg: 22082.2 ns
+ p50: 22126.2 ns
+ p90: 23364.5 ns
+ p99: 24468.1 ns
+[Client 23] Latency samples: 2935
+ Avg: 21770.8 ns
+ p50: 21778.1 ns
+ p90: 23000.8 ns
+ p99: 24056.3 ns
+[Client 24] Latency samples: 2936
+ Avg: 21666.7 ns
+ p50: 21689.9 ns
+ p90: 22818.1 ns
+ p99: 23819.9 ns
+[Client 25] Latency samples: 2935
+ Avg: 22043.5 ns
+ p50: 22025.3 ns
+ p90: 23172.6 ns
+ p99: 24310.9 ns
+[Client 26] Latency samples: 2932
+ Avg: 21945.8 ns
+ p50: 21899.9 ns
+ p90: 23179 ns
+ p99: 23982.7 ns
+[Client 27] Latency samples: 2932
+ Avg: 21793.1 ns
+ p50: 21801.7 ns
+ p90: 22976.3 ns
+ p99: 23928.1 ns
+[Client 28] Latency samples: 2935
+ Avg: 21769.9 ns
+ p50: 21849.9 ns
+ p90: 22976.3 ns
+ p99: 23861.8 ns
+[Client 29] Latency samples: 2936
+ Avg: 22119 ns
+ p50: 22208.1 ns
+ p90: 23283.6 ns
+ p99: 24265.4 ns
+[Client 30] Latency samples: 2935
+ Avg: 22116.7 ns
+ p50: 22180.8 ns
+ p90: 23321.7 ns
+ p99: 24159 ns
+[Client 31] Latency samples: 2934
+ Avg: 21900.8 ns
+ p50: 21910.8 ns
+ p90: 22969 ns
+ p99: 23888.1 ns
+[Client 32] Latency samples: 2934
+ Avg: 21644.9 ns
+ p50: 21670.8 ns
+ p90: 22748.1 ns
+ p99: 23975.4 ns
+[Client 33] Latency samples: 2935
+ Avg: 21772.6 ns
+ p50: 21789.9 ns
+ p90: 22873.5 ns
+ p99: 23800.9 ns
+[Client 34] Latency samples: 2935
+ Avg: 22012.2 ns
+ p50: 22033.5 ns
+ p90: 23079 ns
+ p99: 24120 ns
+[Client 35] Latency samples: 2934
+ Avg: 21838.5 ns
+ p50: 21791.7 ns
+ p90: 22958.1 ns
+ p99: 23830.9 ns
+[Client 36] Latency samples: 2932
+ Avg: 21566.7 ns
+ p50: 21563.5 ns
+ p90: 22614.4 ns
+ p99: 23640.8 ns
+[Client 37] Latency samples: 2933
+ Avg: 21445.8 ns
+ p50: 21471.7 ns
+ p90: 22549 ns
+ p99: 23399 ns
+[Client 38] Latency samples: 2933
+ Avg: 22016.2 ns
+ p50: 21989 ns
+ p90: 23342.7 ns
+ p99: 24326.3 ns
+[Client 39] Latency samples: 2933
+ Avg: 21988.5 ns
+ p50: 21973.5 ns
+ p90: 23027.2 ns
+ p99: 23956.3 ns
+[Client 40] Latency samples: 2933
+ Avg: 22272.2 ns
+ p50: 22146.2 ns
+ p90: 23353.6 ns
+ p99: 24348.1 ns
+[Client 41] Latency samples: 2934
+ Avg: 21886.7 ns
+ p50: 21899.9 ns
+ p90: 23049.9 ns
+ p99: 24138.1 ns
+[Client 42] Latency samples: 2935
+ Avg: 22656.7 ns
+ p50: 22119.9 ns
+ p90: 23299.9 ns
+ p99: 24178.1 ns
+[Client 43] Latency samples: 2932
+ Avg: 21961.2 ns
+ p50: 21870.8 ns
+ p90: 23034.5 ns
+ p99: 24040.9 ns
+[Client 44] Latency samples: 2931
+ Avg: 21725.8 ns
+ p50: 21612.6 ns
+ p90: 22650.8 ns
+ p99: 23628.1 ns
+[Client 45] Latency samples: 2933
+ Avg: 21666.7 ns
+ p50: 21647.1 ns
+ p90: 22761.7 ns
+ p99: 23979 ns
+[Client 46] Latency samples: 2933
+ Avg: 22170.3 ns
+ p50: 22194.4 ns
+ p90: 23520.8 ns
+ p99: 24567.2 ns
+[Client 47] Latency samples: 2933
+ Avg: 21677.1 ns
+ p50: 21721.7 ns
+ p90: 22756.3 ns
+ p99: 23690.8 ns
+[Client 48] Latency samples: 2933
+ Avg: 21962.2 ns
+ p50: 22020.8 ns
+ p90: 23324.5 ns
+ p99: 24343.6 ns
+[Client 49] Latency samples: 2933
+ Avg: 21348 ns
+ p50: 21357.1 ns
+ p90: 22409.9 ns
+ p99: 23238.1 ns
+[Client 50] Latency samples: 2932
+ Avg: 21552.6 ns
+ p50: 21578 ns
+ p90: 22588.1 ns
+ p99: 23352.7 ns
+[Client 51] Latency samples: 2933
+ Avg: 21879 ns
+ p50: 21838.1 ns
+ p90: 23239 ns
+ p99: 24240 ns
+[Client 52] Latency samples: 2932
+ Avg: 21854.9 ns
+ p50: 21869.9 ns
+ p90: 23084.5 ns
+ p99: 24010 ns
+[Client 53] Latency samples: 2933
+ Avg: 21822.6 ns
+ p50: 21865.3 ns
+ p90: 23039.9 ns
+ p99: 24245.4 ns
+[Client 54] Latency samples: 2934
+ Avg: 22004.4 ns
+ p50: 22017.2 ns
+ p90: 23192.6 ns
+ p99: 24027.2 ns
+[Client 55] Latency samples: 2934
+ Avg: 21779.9 ns
+ p50: 21784.4 ns
+ p90: 22989 ns
+ p99: 24154.5 ns
+[Client 56] Latency samples: 2934
+ Avg: 21730.8 ns
+ p50: 21796.2 ns
+ p90: 23027.2 ns
+ p99: 24110.9 ns
+[Client 57] Latency samples: 2934
+ Avg: 21725.8 ns
+ p50: 21846.2 ns
+ p90: 23048.1 ns
+ p99: 23908.1 ns
+[Client 58] Latency samples: 2934
+ Avg: 21621.7 ns
+ p50: 21659 ns
+ p90: 22796.3 ns
+ p99: 23735.4 ns
+[Client 59] Latency samples: 2932
+ Avg: 21785.3 ns
+ p50: 21813.5 ns
+ p90: 23149 ns
+ p99: 24619.1 ns
+[Client 60] Latency samples: 2932
+ Avg: 22149.4 ns
+ p50: 22258.1 ns
+ p90: 23300.8 ns
+ p99: 24185.4 ns
+[Client 61] Latency samples: 2933
+ Avg: 21630.3 ns
+ p50: 21621.7 ns
+ p90: 22679 ns
+ p99: 23678.1 ns
+[Client 62] Latency samples: 2932
+ Avg: 22049 ns
+ p50: 22044.4 ns
+ p90: 23216.3 ns
+ p99: 24147.2 ns
+[Client 63] Latency samples: 2933
+ Avg: 21918.1 ns
+ p50: 21885.3 ns
+ p90: 23134.5 ns
+ p99: 24448.1 ns
